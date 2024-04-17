@@ -1,5 +1,6 @@
 # Aberration
-![bg copy](https://github.com/danylleusof/aberration/assets/167318583/efc694a1-424a-4d70-a3fb-703d92769660)
+![bg copy banner](https://github.com/danylleusof/aberration/assets/167318583/745bc781-a29d-4ea8-824a-d2efaf7d1b08)
+
 
 Aberration is an FPS horror sci-fi game made in Unity. Hunt down monsters known as _Aberrants_ to keep the peace of a nearby town and the ecosystem.
 
