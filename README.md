@@ -15,6 +15,8 @@ This game was made for our final project on one of our subjects. This project ai
 
 ## Gallery
 
+[<img src="https://img.youtube.com/vi/D2LCcHJ0nJ8/hqdefault.jpg" width="1280" height="720"
+/>](https://www.youtube.com/embed/D2LCcHJ0nJ8)
 ![Aberration Screenshot 1](https://github.com/danylleusof/aberration/assets/167318583/5e96e313-2b5b-4019-a662-d804a86ad610)
 ![Aberration Screenshot 2](https://github.com/danylleusof/aberration/assets/167318583/5d7d0f58-ccc0-4e8a-9ed8-23dd988ea744)
 ![Aberration Screenshot 3](https://github.com/danylleusof/aberration/assets/167318583/200e819d-c0e8-4b67-8007-8c9fd2b3d5f5)
