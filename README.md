@@ -6,11 +6,11 @@ Aberration is an FPS horror sci-fi game made in Unity. Hunt down monsters known 
 This game was made for our final project on one of our subjects. This project aims to create a digital game, choosing from one of many genres using necessary and appropriate game scripts. We as a team, agreed on the shooting genre as we want to experience developing a first-person shooter.
 
 ## Controls
-- **WASD** to walk.
-- Hold **LEFT SHIFT** to sprint.
-- **LEFT MOUSE** to shoot.
-- **R** to reload the weapon.
-- **TAB** to check objectives.
+- `WASD` to walk.
+- Hold `LEFT SHIFT` to sprint.
+- `LEFT MOUSE BUTTON` to shoot.
+- `R` to reload the weapon.
+- `TAB` to check objectives.
 
 ## Gallery
 <video width="1280" height="720" src="https://github.com/danylleusof/aberration/assets/167318583/646ba83a-6eae-46de-8753-422cb05a9890"></video>
